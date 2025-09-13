@@ -1,1 +1,44 @@
+<h1> Nossa Galeria</h1>
+    <div class="categorias">
+        <a href="Galeria.html">Todos</a>
+        <a href="#">Natureza</a>
+        <a href="#">Urbano</a>
+        <a href="#">Retratos</a>
+    </div>
 
+    <div class="container">
+        <img src="https://i.pinimg.com/736x/39/9b/df/399bdf84445c64e98f93f49c90246533.jpg" alt="Natureza" width="580px"
+            height="400px">
+        <img src="https://i.pinimg.com/736x/e8/f9/83/e8f9833ba407af03f5fe4d6af27496d9.jpg" alt="Natureza" width="580px"
+            height="400px">
+    </div>
+
+    <div class="container2">
+        <img src="https://i.pinimg.com/1200x/fa/3e/c1/fa3ec18e4b16f56ae9ff5e31bbb6bf35.jpg" alt="Natureza" width="580px"
+            height="400px">
+        <img src="https://i.pinimg.com/736x/fb/ea/9f/fbea9f7ce62f826f168bc0edbeaa5626.jpg" alt="Natureza" width="580px"
+            height="400px">
+    </div>
+
+    <div class="container3">
+        <img src="https://i.pinimg.com/1200x/f1/fc/bb/f1fcbba1cc180a67979e7b4ab02fb174.jpg" alt="Natureza" width="580px"
+            height="400px">
+        <img src="https://i.pinimg.com/736x/6f/1d/b8/6f1db806ddc0fb31fdd11f2e34380224.jpg" alt="Natureza" width="580px"
+            height="400px">
+    </div>
+
+    <div class="menu-btn" id="menubtn">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <div class="menu" id="menu">
+
+        <a href="Galeria Essência.html">Início</a>
+        <a href="Galeria.html">Galeria</a>
+        <a href="cadastro.html">Cadastro</a>
+        <a href="Eventos.html">Eventos</a>
+        <a href="#">Sobre</a>
+
+    </div>
