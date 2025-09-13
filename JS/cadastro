@@ -6,5 +6,3 @@ const menubtn = document.getElementById('menubtn');
 
         });
 
-
-    </script>
