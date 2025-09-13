@@ -1,1 +1,48 @@
+<div class="retangulo">
+      <h1 class="Cadastro"> Envie sua Fotografia</h1>
+      <form>
+         <label for="nome"> Nome Completo</label>
+         <input type="text" id="nome" placeholder="Seu nome completo">
 
+         <label for="email"> Email</label>
+         <input type="email" id="email" placeholder="seu@email.com">
+
+         <label for="categoria">Categoria</label>
+         <select id="categoria">
+            <option>Selecione uma categoria</option>
+            <option>Paisagem</option>
+            <option>Retrato</option>
+            <option>Urbano</option>
+            <option>Comida</option>
+            <option>Outros</option>
+         </select>
+
+         <label for="titulo">Título da Foto</label>
+         <input type="text" id="titulo" placeholder="Título criativo para a Foto">
+
+         <label for="descriçao">Descrição</label>
+         <textarea id="descriçao" placeholder="conte a história por trás desta foto"></textarea>
+
+         <div class="upload">
+            <input type="file" id="Foto" accept="image/*">
+         </div>
+
+         <button type="submit">Enviar</button>
+      </form>
+   </div>
+
+   <div class="menu-btn" id="menubtn">
+      <div></div>
+      <div></div>
+      <div></div>
+   </div>
+
+   <div class="menu" id="menu">
+
+      <a href="Galeria Essência.html">Início</a>
+      <a href="Galeria.html">Galeria</a>
+      <a href="cadastro.html">Cadastro</a>
+      <a href="Eventos.html">Eventos</a>
+      <a href="#">Sobre</a>
+
+   </div>
