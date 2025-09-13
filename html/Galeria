@@ -1,1 +1,44 @@
+<h1> Nossa Galeria</h1>
+    <div class="categorias">
+        <a href="Galeria.html">Todos</a>
+        <a href="Galeria2.html">Natureza</a>
+        <a href="#">Urbano</a>
+        <a href="#">Retratos</a>
+    </div>
 
+    <div class="container">
+        <img src="https://blog.emania.com.br/wp-content/uploads/2015/10/fotos-de-natureza.jpg" alt="Natureza"
+            width="580px" height="400px">
+        <img src="https://fotografemelhor.com.br/wp-content/uploads/2019/10/Captura-de-Tela-2019-10-30-a%CC%80s-17.21.42-co%CC%81pia-1024x682.jpg"
+            alt="Natureza" width="580px" height="400px">
+    </div>
+
+    <div class="container2">
+        <img src="https://wikihaus.com.br/wp-content/uploads/2018/12/mobiliario-urbano-destaque.jpeg" alt="Urbano"
+            width="580px" height="400px">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT6TjDWFwj4YcY4aj_XAJCO2Jlspv233e6LA&s"
+            alt="Urbano" width="580px" height="400px">
+    </div>
+
+    <div class="container3">
+        <img src="https://i.pinimg.com/736x/a8/0c/cd/a80ccd19ba786531b2247f59bcf47433.jpg" alt="retrato" width="580px"
+            height="400px">
+        <img src="https://i.pinimg.com/736x/5c/4f/6b/5c4f6b45d39f803a4508cbb6e69f894a.jpg" alt="retrato" width="580px"
+            height="400px">
+    </div>
+
+    <div class="menu-btn" id="menubtn">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <div class="menu" id="menu">
+
+        <a href="Galeria Essência.html">Início</a>
+        <a href="Galeria.html">Galeria</a>
+        <a href="cadastro.html">Cadastro</a>
+        <a href="Eventos.html">Eventos</a>
+        <a href="#">Sobre</a>
+
+    </div>
