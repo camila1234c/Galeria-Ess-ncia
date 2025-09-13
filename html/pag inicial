@@ -1,1 +1,22 @@
+<div class="img">
+        <img src="https://d1muf25xaso8hp.cloudfront.net/https://img.criativodahora.com.br/homologacao/thumbs/2025/03/09/01957d57-66f9-72db-bdf4-ee666eaec145.jpg?w=1000&h=&auto=compress&dpr=1&fit=max"
+            alt="paisagem">
+        <h1 class="titulo"> Galeria <br>Essência</h1>
+        <a href="Galeria.html" class="btn">Explorar Galeria</a>
+    </div>
 
+    <div class="menu-btn" id="menubtn">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+
+    <div class="menu" id="menu">
+
+        <a href="Galeria Essência.html">Início</a>
+        <a href="Galeria.html">Galeria</a>
+        <a href="cadastro.html">Cadastro</a>
+        <a href="Eventos.html">Eventos</a>
+        <a href="#">Sobre</a>
+
+    </div>
